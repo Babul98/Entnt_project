@@ -2,12 +2,8 @@
 
 This project is a frontend-only Ship Maintenance Dashboard developed for the ENTNT Technical Assignment. It simulates the management of ships, their components, and associated maintenance jobs using React, React Router, Context API for state management, and TailwindCSS for styling. All data interactions are handled via `localStorage`.
 
-**Submission Deadline:** Monday, 2 June (as per assignment details)
 
-## Deployed Application Link
 
-*   **Link:** [Your Deployed Link Here - e.g., Vercel, Netlify]
-    *   *Note: You will need to deploy this project to a service like Vercel, Netlify, or GitHub Pages and replace this placeholder.*
 
 ## Features Implemented
 
